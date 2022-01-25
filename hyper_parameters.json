@@ -1,16 +1,11 @@
 {
-    "initialized":1,
-    "EPOCH":100,
-    "V-iteration":256,
-    "BS":256,
-    "LR":0.000001,
-    "NW":2,
-    "L2":0.0001,
-    "wait":3,
-    "GPU":2,
-    "task":"Low+Middle",
-    "file0":["testMiddleMSI.meta","testLowMSI.meta"],
-    "file1":["testMiddleMSS.meta","testLowMSS.meta"],
-    "file2":["testMiddleMSI.meta","testMiddleMSS.meta"],
-    "testfile":["slide-2021-06-18T10-23-49-R1-S3_crop.meta", "slide-2021-06-24T09-06-33-R1-S7_crop.meta", "slide-2021-06-24T09-15-42-R1-S13_crop.meta", "slide-2021-06-24T08-57-23-R1-S2_crop.meta", "slide-2021-06-18T10-31-27-R1-S9_crop.meta", "slide-2021-06-18T10-28-36-R1-S7_crop.meta", "slide-2021-06-18T10-38-27-R1-S15_crop.meta", "slide-2021-06-24T09-03-16-R1-S5_crop.meta", "slide-2021-06-24T09-20-05-R1-S16_crop.meta", "slide-2021-06-24T09-05-01-R1-S6_crop.meta", "slide-2021-06-24T09-09-54-R1-S9_crop.meta", "slide-2021-06-18T10-20-38-R1-S1_crop.meta", "slide-2021-06-18T10-37-12-R1-S14_crop.meta", "slide-2021-06-24T09-01-50-R1-S4_crop.meta", "slide-2021-06-24T09-18-52-R1-S15_crop.meta", "slide-2021-06-24T09-11-26-R1-S10_crop.meta", "slide-2021-06-18T10-22-18-R1-S2_crop.meta", "slide-2021-06-24T09-14-20-R1-S12_crop.meta", "slide-2021-06-24T09-08-16-R1-S8_crop.meta", "slide-2021-06-24T08-55-59-R1-S1_crop.meta", "slide-2021-06-18T10-36-09-R1-S13_crop.meta", "slide-2021-06-24T09-12-42-R1-S11_crop.meta", "slide-2021-06-18T10-34-55-R1-S12_crop.meta", "slide-2021-06-18T10-25-08-R1-S4_crop.meta", "slide-2021-06-24T09-23-06-R1-S18_crop.meta", "slide-2021-06-18T10-30-18-R1-S8_crop.meta", "slide-2021-06-18T10-32-29-R1-S10_crop.meta", "slide-2021-06-18T10-39-59-R1-S16_crop.meta", "slide-2021-06-24T09-17-24-R1-S14_crop.meta", "slide-2021-06-18T10-33-43-R1-S11_crop.meta", "slide-2021-06-24T08-59-42-R1-S3_crop.meta", "slide-2021-06-24T09-21-23-R1-S17_crop.meta", "slide-2021-06-18T10-26-24-R1-S5_crop.meta", "slide-2021-06-18T10-27-32-R1-S6_crop.meta"]
+    "EPOCH": 100,
+    "V-iteration": 256,
+    "BS": 256,
+    "LR": 0.000001,
+    "NW": 2,
+    "L2": 0.0001,
+    "wait": 3,
+    "GPU": 0,
+    "task": ""
 }

@@ -1,18 +1,12 @@
 '''
 This script trains tumor/normal
 '''
-import scipy.stats
 import torch
 import torchvision
 import PIL
 import json
-import os
-import numpy
 import time
-import scipy
 import random
-import staintools
-import threading
 torch.set_printoptions(profile='full')
 hyper_parameters = open('dataset/hyper_parameters_json', 'r')
 hyper_parameters = json.load(hyper_parameters)
