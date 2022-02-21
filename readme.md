@@ -1,8 +1,8 @@
 # Interpretable Tumor Differentiation Grade and Microsatellite Instability Recognition in Gastric Cancer Using Deep Learning
 
-## update: 2022.1.25
+## update: 2022.2.21
 
-> If you are using these codes, please consider referring to ***Interpretable Tumor Differentiation Grade and Microsatellite Instability Recognition in Gastric Cancer Using Deep Learning***
+> If you are using these codes, please consider referring to [***Interpretable Tumor Differentiation Grade and Microsatellite Instability Recognition in Gastric Cancer Using Deep Learning***](https://www.nature.com/articles/s41374-022-00742-6#citeas)
 
 `Ref.png` is refered to [***Deep learning can predict microsatellite instability directly from histology in gastrointestinal cancer***](https://www.nature.com/articles/s41591-019-0462-y)
 
